@@ -28,3 +28,7 @@ The project consists of two main parts:
 - `scikit-learn`
 - `keras`
 - `streamlit`
+
+## Demo Img and Link
+<img width="889" alt="image" src="https://github.com/Deepakv1210/Stock_Crypto_Market_Prediction/assets/154148155/619ceef0-e093-4b70-b74f-c0678c62f934">
+https://stockcryptomarketprediction.streamlit.app/
