@@ -2,6 +2,10 @@
 
 This is a simple stock market prediction project using Long Short-Term Memory (LSTM) neural networks. The project uses historical stock data from Yahoo Finance, implemented using the `yfinance` library, and the LSTM model is built using the `keras` library.
 
+## Website Link
+
+https://stockcryptomarketprediction.streamlit.app/
+
 ## Project Overview
 
 The project consists of two main parts:
@@ -29,6 +33,6 @@ The project consists of two main parts:
 - `keras`
 - `streamlit`
 
-## Demo Img and Link
+## Demo Img
 <img width="889" alt="image" src="https://github.com/Deepakv1210/Stock_Crypto_Market_Prediction/assets/154148155/619ceef0-e093-4b70-b74f-c0678c62f934">
-https://stockcryptomarketprediction.streamlit.app/
+
